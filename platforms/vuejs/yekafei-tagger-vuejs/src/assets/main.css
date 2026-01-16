@@ -1,0 +1,19 @@
+.v-border {
+  border-color: rgb(230, 230, 230);
+  border-style: dotted;
+  border-width: 0.1mm;
+
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+
+  line-height: normal;
+}
